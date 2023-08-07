@@ -59,4 +59,4 @@ function sumOfCart(value) {
 }
 
 const result = sumOfCart(phones);
-console.log(result);
+console.log('today expense :',result);
